@@ -35,4 +35,6 @@ group's finacial goal. Show your own personal progress as well as the group's sa
 
 ![final_project_erd.png](https://github.com/tpampilon/finals_planning_LHL/blob/main/images/final_project_erd.png?raw=true)
 
-##
+## Wireframe
+![final_project_wireframe.png]()
+Can also be accessed through [this link](https://whimsical.com/homepage-KX7wDy3K5xLC841dNzwwVT).
