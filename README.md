@@ -29,7 +29,7 @@ group's finacial goal. Show your own personal progress as well as the group's sa
 8. As logged in User, I can see the my groupmate's estimated timeline to reach their goals. (have their progress bars)
 9. As logged in User, I can decide to use my daily "Surprise Mechanics".
 10. As logged in User, I can add stretch saving goals.
-11. As logged in User, I recieve emails/text msgs notification of trips nearing (stretch)
+11. As logged in User, I recieve emails/text msgs notification of trips nearing (stretch).
 
 ## Entity Relationship Diagram
 
