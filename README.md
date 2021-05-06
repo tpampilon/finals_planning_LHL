@@ -33,6 +33,6 @@ group's finacial goal. Show your own personal progress as well as the group's sa
 
 ## Entity Relationship Diagram
 
-![final_project_erd.png]()
+![final_project_erd.png](https://github.com/tpampilon/finals_planning_LHL/blob/main/images/final_project_erd.png?raw=true)
 
 ##
