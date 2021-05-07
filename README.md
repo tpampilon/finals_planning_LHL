@@ -19,17 +19,17 @@ group's finacial goal. Show your own personal progress as well as the group's sa
 
 ## User Stories
 
-1. As non-logged in User, I can create an account.
-2. As non-logged in User, I can view the trip list.
-3. As non-logged in User, I can view "Surprise Mechanics" incentives list.
-4. As logged in User, I choose a group trip from the trip list and add groupmates to it.
-5. As logged in User, I can make my own custom trip goals. We can set a trip title, amount and the timeline (dates).
-6. As logged in User, I can set my daily savings allowance.
-7. As logged in User, I can see the estimated timeline to reach my trip goals. (progress bar)
-8. As logged in User, I can see the my groupmate's estimated timeline to reach their goals. (have their progress bars)
-9. As logged in User, I can decide to use my daily "Surprise Mechanics".
-10. As logged in User, I can add stretch saving goals.
-11. As logged in User, I recieve emails/text msgs notification of trips nearing (stretch).
+1. As a non-logged in User, I can create an account.
+2. As a non-logged in User, I can view the trip list.
+3. As a non-logged in User, I can view "Surprise Mechanics" incentives list.
+4. As a logged in User, I choose a group trip from the trip list and add groupmates to it.
+5. As a logged in User, I can make my own custom trip goals. We can set a trip title, amount and the timeline (dates).
+6. As a logged in User, I can set my daily savings allowance.
+7. As a logged in User, I can see the estimated timeline to reach my trip goals. (progress bar)
+8. As a logged in User, I can see the my groupmate's estimated timeline to reach their goals. (have their progress bars)
+9. As a logged in User, I can decide to use my daily "Surprise Mechanics".
+10. As a logged in User, I can add stretch saving goals.
+11. As a logged in User, I recieve emails/text msgs notification of trips nearing (stretch).
 
 ## Entity Relationship Diagram
 
